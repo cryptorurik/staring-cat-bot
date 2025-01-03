@@ -3,7 +3,8 @@
 Discord Cat Bot Source Code
 
 web: [catiscult.com](https://catiscult.com)
-X: [X](https://x.com/staringcatcult)
+
+X: [x.com/staringcatcult](https://x.com/staringcatcult)
 
 # Setup
 
