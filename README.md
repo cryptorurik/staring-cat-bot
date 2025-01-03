@@ -1,4 +1,4 @@
-# Staring Cat Bot. #CATISCULT
+# Staring Cat Bot #CATISCULT
 
 Discord Staring Cat Bot Source Code
 
